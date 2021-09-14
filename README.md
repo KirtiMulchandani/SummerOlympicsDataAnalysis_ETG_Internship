@@ -11,7 +11,7 @@ This repository contains Summer Olympics Data Analysis Project (Assignment 2) fo
 * Which event is most popular in terms on number of players? (Top 5)
 * Which sport is having most female Gold Medalists? (Top 5)
 # About me
-I'm pursuing B.Tech in Computer Science & Engineering from ITM Group of Institutions, Gwalior, MP.
+I'm Kirti Mulchandani from Gwalior. I'm pursuing B.Tech in Computer Science & Engineering from ITM Group of Institutions, Gwalior, MP.
 Being a Computer Science student, I'm exploring the world of programming and taking exposure to new and advanced technologies and trying to enhance my skills as much as I can.
 For any role, I bring technical and communication skills, a learning mindset, hard work with never give up attitude. With my skills, I want to go beyond the expectations of the organization may have.
 # Other Link
